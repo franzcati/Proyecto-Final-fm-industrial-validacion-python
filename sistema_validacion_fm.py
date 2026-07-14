@@ -369,6 +369,11 @@ def mostrar_observados(datos):
 def buscar_pedido(datos):
     """Busca un pedido por ID utilizando un recorrido repetitivo."""
     codigo = input("Ingrese el ID del pedido: ").strip().upper()
+
+    if codigo == "":
+        print("\n*** El ID del pedido no puede estar vacío. ***")
+        return
+
     encontrado = False
 
     for i in range(len(datos["ids"])):
