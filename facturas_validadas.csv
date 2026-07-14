@@ -1,0 +1,11 @@
+﻿ID_Pedido,Cliente,Tipo_Faja,Ancho_Pulgadas,Largo_Metros,Cantidad,Tarifa_Metro,Subtotal,IGV,Total,Estado,Observacion
+FAC-001,Minera Volcan,Banda Transportadora,24,45.5,2,65.00,5915.00,1064.70,6979.70,VALIDADO,Sin observaciones
+FAC-002,Alicorp,Cinta de Transmisión,12,30.0,4,35.00,4200.00,756.00,4956.00,VALIDADO,Sin observaciones
+FAC-003,Cementos Lima,Banda Transportadora,36,20.0,1,65.00,1300.00,234.00,1534.00,VALIDADO,Sin observaciones
+FAC-004,Agroindustrial Norte,Cinta de Transmisión,18,55.5,3,35.00,5827.50,1048.95,6876.45,VALIDADO,Sin observaciones
+FAC-005,Minera Sur,Banda Transportadora,48,80.0,2,65.00,10400.00,1872.00,12272.00,VALIDADO,Sin observaciones
+FAC-006,Textiles Andinos,Cinta de Transmisión,10,15.0,5,35.00,2625.00,472.50,3097.50,VALIDADO,Sin observaciones
+FAC-007,Pesquera Pacifico,Banda Transportadora,30,0.0,1,0.00,0.00,0.00,0.00,OBSERVADO,Largo_Metros debe estar entre 0.01 y 500.0
+FAC-008,Constructora Delta,Rodillo Industrial,24,10.0,2,0.00,0.00,0.00,0.00,OBSERVADO,Tipo_Faja debe ser Banda Transportadora o Cinta de Transmisión
+FAC-009,Metalurgica Centro,Banda Transportadora,42,12.5,3,65.00,2437.50,438.75,2876.25,VALIDADO,Sin observaciones
+FAC-010,Empaques Lima,Cinta de Transmisión,16,40.0,1,35.00,1400.00,252.00,1652.00,VALIDADO,Sin observaciones

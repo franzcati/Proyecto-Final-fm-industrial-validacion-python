@@ -1,0 +1,11 @@
+ID_Pedido,Cliente,Tipo_Faja,Ancho_Pulgadas,Largo_Metros,Cantidad
+FAC-001,Minera Volcan,Banda Transportadora,24,45.5,2
+FAC-002,Alicorp,Cinta de Transmision,12,30,4
+FAC-003,Cementos Lima,Banda Transportadora,36,20,1
+FAC-004,Agroindustrial Norte,Cinta de Transmision,18,55.5,3
+FAC-005,Minera Sur,Banda Transportadora,48,80,2
+FAC-006,Textiles Andinos,Cinta de Transmision,10,15,5
+FAC-007,Pesquera Pacifico,Banda Transportadora,30,0,1
+FAC-008,Constructora Delta,Rodillo Industrial,24,10,2
+FAC-009,Metalurgica Centro,Banda Transportadora,42,12.5,3
+FAC-010,Empaques Lima,Cinta de Transmision,16,40,1
